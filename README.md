@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexannebrunold&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexannebrunold)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alexannebrunold/alexannebrunold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
