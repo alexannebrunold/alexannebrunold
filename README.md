@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=alexannebrunold&label=Profile%20views&color=0e75b6&style=flat" alt="alexannebrunold" />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexannebrunold&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexannebrunold&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexannebrunold&show_icons=true&theme=radical)
