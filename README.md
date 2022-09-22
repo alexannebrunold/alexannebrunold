@@ -1,30 +1,30 @@
 ### Hi there 👋
 
-👩🏻‍💻 Alexanne
-💻 Développeuse fullstack JS (VueJs - NodeJs)
+👩🏻‍💻 Alexanne   
+💻 Développeuse fullstack JS (VueJs - NodeJs)  
 
-👩🏻‍💻 Ma stack :
- • Javascript
- • VueJS/NuxtJS
- • NodeJS (Express)
- • PostreSQL
- • CSS/ SCSS
+👩🏻‍💻 Ma stack :  
+ • Javascript  
+ • VueJS/NuxtJS  
+ • NodeJS (Express)  
+ • PostreSQL  
+ • CSS / SCSS  
 
-🖥 Mes méthodes de travail :
- • TDD
- • DDD
- • Agile
- • Responsive
- • Accessible
- • Clean architecture / hexagonale
- • Clean code
+🖥 Mes méthodes de travail :  
+ • TDD  
+ • DDD  
+ • Agile  
+ • Responsive  
+ • Accessibibilité  
+ • Clean architecture / hexagonale  
+ • Clean code  
  
- ❤️ Spécialités :
- • Paiement (Stripe, MangoPay, click&collect, paiement à table, paiement qr code)
- • Restauration
- • Éco-conception
- • Accessibilité
- • Design UX
+ ❤️ Spécialités :  
+ • Paiement (Stripe, MangoPay, click&collect, paiement à table, paiement qr code)  
+ • Restauration  
+ • Éco-conception  
+ • Accessibilité  
+ • Design UX  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexannebrunold&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexannebrunold&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
